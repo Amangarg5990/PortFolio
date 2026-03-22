@@ -1,0 +1,319 @@
+{
+    "hero": {
+        "name": "Aman Garg",
+        "profileImage": "/assets/images/profile_new.png",
+        "roles": [
+            "Data Science",
+            "Machine Learning",
+            "Software Developer"
+        ],
+        "tagline": "\"Aspiring Data Science Engineer pulling insights from complex data.\""
+    },
+    "about": {
+        "education": "B.Tech in Computer Science and Engineering at Lovely Professional University.",
+        "description": "Aspiring Data Science Engineer with a strong interest in Data Science, Machine Learning, and Data Structures. I have hands-on experience in C++ and Python, along with practical knowledge of tools like NumPy, Pandas, and Matplotlib for data analysis and visualization. I enjoy working with data to discover patterns, gain insights, and build predictive models for real-world problems.\\n\\nI have developed projects such as sales analysis dashboards and machine learning-based prediction systems, where I applied my skills to create data-driven solutions. I also have basic knowledge of JavaScript and Node.js, which helps me build simple web-based applications.\\n\\nI am continuously improving my problem-solving skills through Data Structures and Algorithms (DSA) and aim to build impactful and scalable solutions in the field of Data Science.",
+        "stats": {
+            "problemsSolved": "283",
+            "dayStreak": "29",
+            "activeDays": "82",
+            "submissions": "319"
+        }
+    },
+    "coding": {
+        "leetcode": {
+            "solved": 222,
+            "easy": 122,
+            "med": 92,
+            "hard": 8
+        },
+        "hackerrank": {
+            "solved": 78,
+            "skills": [
+                "SQL",
+                "C++",
+                "Python"
+            ]
+        },
+        "gfg": {
+            "solved": 102,
+            "skills": [
+                "Basic: 20",
+                "Easy: 52",
+                "Medium: 30"
+            ]
+        }
+    },
+    "skills": [
+        {
+            "category": "Programming",
+            "icon": "fa-code",
+            "items": [
+                {
+                    "name": "Python",
+                    "level": "90%",
+                    "icon": "fab fa-python"
+                },
+                {
+                    "name": "C",
+                    "level": "85%",
+                    "icon": "fa-solid fa-c"
+                },
+                {
+                    "name": "C++",
+                    "level": "85%",
+                    "icon": "fa-solid fa-code"
+                },
+                {
+                    "name": "JavaScript",
+                    "level": "80%",
+                    "icon": "fab fa-js"
+                },
+                {
+                    "name": "SQL",
+                    "level": "85%",
+                    "icon": "fa-solid fa-database"
+                }
+            ]
+        },
+        {
+            "category": "Databases",
+            "icon": "fa-server",
+            "items": [
+                {
+                    "name": "SQL",
+                    "level": "85%",
+                    "icon": "fa-solid fa-database"
+                },
+                {
+                    "name": "Oracle",
+                    "level": "70%",
+                    "icon": "fa-solid fa-cloud"
+                }
+            ]
+        },
+        {
+            "category": "Frameworks",
+            "icon": "fa-layer-group",
+            "items": [
+                {
+                    "name": "React.js",
+                    "level": "80%",
+                    "icon": "fab fa-react"
+                },
+                {
+                    "name": "Node.js",
+                    "level": "75%",
+                    "icon": "fab fa-node-js"
+                },
+                {
+                    "name": "Flask",
+                    "level": "70%",
+                    "icon": "fa-solid fa-leaf"
+                },
+                {
+                    "name": "Streamlit",
+                    "level": "85%",
+                    "icon": "fa-solid fa-chart-line"
+                }
+            ]
+        },
+        {
+            "category": "Libraries",
+            "icon": "fa-book",
+            "items": [
+                {
+                    "name": "NumPy",
+                    "level": "85%",
+                    "icon": "fa-solid fa-calculator"
+                },
+                {
+                    "name": "Pandas",
+                    "level": "90%",
+                    "icon": "fa-solid fa-table"
+                },
+                {
+                    "name": "Tkinter",
+                    "level": "70%",
+                    "icon": "fa-solid fa-window-maximize"
+                },
+                {
+                    "name": "Matplotlib",
+                    "level": "80%",
+                    "icon": "fa-solid fa-chart-pie"
+                }
+            ]
+        }
+    ],
+    "experience": [
+        {
+            "title": "B.Tech Computer Science and Engineering",
+            "company": "Lovely Professional University, Phagwara, Punjab",
+            "date": "Aug 2023 - Present",
+            "description": "Bachelor of Technology degree with a focus on core CS and Data Science.\nCGPA: 8.82",
+            "tech": [
+                "Data Science",
+                "Programming"
+            ],
+            "projects": []
+        },
+        {
+            "title": "Intermediate",
+            "company": "Sarvodaya Public School, Meerut, Uttar Pradesh",
+            "date": "Apr 2021 - Mar 2022",
+            "description": "Completed higher secondary education focusing on Science.\nPercentage: 69.2%",
+            "tech": [],
+            "projects": []
+        },
+        {
+            "title": "Matriculation",
+            "company": "Sarvodaya Public School, Meerut, Uttar Pradesh",
+            "date": "Apr 2019 - Mar 2020",
+            "description": "Completed primary education.\nPercentage: 87.6%",
+            "tech": [],
+            "projects": []
+        }
+    ],
+    "projects": [
+        {
+            "title": "Offline and Online Sales Dashboard",
+            "date": "Oct 2025 - Dec 2025",
+            "description": "Streamlined 5,000+ sales transactions to evaluate performance metrics for digital platforms versus physical retail store locations. Constructed a comprehensive Power BI interface using 50+ DAX measures to track monthly growth and profitability. Optimized 150+ operational workflows by identifying high-revenue periods and allocating marketing resources more effectively during seasons.",
+            "tech": [
+                "Power BI",
+                "SQL",
+                "Microsoft Excel",
+                "DAX"
+            ],
+            "image": "/assets/images/sales_dashboard.png",
+            "github": "https://github.com/Amangarg5990/Offline-and-Online-Sales-Dashboard",
+            "live": "https://drive.google.com/file/d/1rjLJL6uaTlMS64Hd2MdiMhnMYzQ0mss-/view?usp=sharing",
+            "color": "emerald"
+        },
+        {
+            "title": "Bank Marketing Campaign Prediction",
+            "date": "Jul 2025 - Aug 2025",
+            "description": "Built predictive models forecasting bank term deposit subscriptions. Implemented Python and Scikit-learn to compare classification models for optimal accuracy, and deployed an interactive Streamlit dashboard for real-time predictions.",
+            "tech": [
+                "Python",
+                "Scikit-Learn",
+                "Streamlit",
+                "Machine Learning"
+            ],
+            "image": "/assets/images/bank_marketing.png",
+            "github": "https://github.com/Amangarg5990/Bank-Marketing-Campaign-Prediction",
+            "live": "https://bank-marketing-campaign-prediction-1.onrender.com/",
+            "color": "green"
+        },
+        {
+            "title": "Bike Sales Analysis and Resale Price Prediction",
+            "date": "Feb 2025 - Apr 2025",
+            "description": "Explored 10K+ Indian bike sales records for regional resale value trends. Conducted preprocessing, feature engineering, and produced 14+ visual insights. Developed a Linear Regression model (MSE = 0.05) to accurately predict resale prices.",
+            "tech": [
+                "Python",
+                "Pandas",
+                "NumPy",
+                "Matplotlib",
+                "Seaborn",
+                "Scikit-learn"
+            ],
+            "image": "/assets/images/bike_sales.png",
+            "github": "https://github.com/Amangarg5990/Bike-Sales-Analysis---India",
+            "color": "cyan"
+        },
+        {
+            "title": "Crime Report Analysis Dashboard",
+            "date": "Feb 2025 - Apr 2025",
+            "description": "Interactive Excel dashboard analyzing crime records. Features detailed breakdown of crime hotspots, severity analysis, and temporal trends using Pivot Tables and dynamic charts.",
+            "tech": [
+                "Excel",
+                "Pivot Tables",
+                "Data Analysis"
+            ],
+            "image": "/assets/images/crime_report.png",
+            "github": "https://github.com/Amangarg5990/Crime-Report-Analysis-Dashboard-Excel",
+            "live": "https://drive.google.com/file/d/16L7PRv1G40Be8ekpb6cyFWi_NuBiRLE4/view?usp=sharing",
+            "color": "cyan"
+        },
+        {
+            "title": "Weather Dashboard",
+            "date": "Apr 2025 - May 2025",
+            "description": "Created a responsive weather tracking web app offering real-time updates and 5-day forecasts globally. Designed a modern UI and integrated Weather API for live, precise data, improving accuracy by 95%.",
+            "tech": [
+                "HTML5",
+                "CSS3",
+                "JavaScript",
+                "WeatherAPI",
+                "FontAwesome",
+                "GoogleFonts"
+            ],
+            "image": "/assets/images/weather_dashboard.png",
+            "github": "https://github.com/Amangarg5990/Check-Weather-Report",
+            "color": "blue"
+        }
+    ],
+    "achievements": [
+        {
+            "title": "450+ Problems Solved",
+            "description": "Across LeetCode, HackerRank & GeeksforGeeks",
+            "tech": [
+                "LeetCode",
+                "HackerRank",
+                "GFG"
+            ],
+            "icon": "fa-laptop-code"
+        },
+        {
+            "title": "LeetCode 50 Days Badge",
+            "description": "Consistently active for 50 days to earn the LeetCode 50 Days badge.",
+            "icon": "fa-medal",
+            "tech": [
+                "LeetCode"
+            ]
+        }
+    ],
+    "certifications": [
+        {
+            "provider": "Oracle",
+            "title": "Oracle Cloud Infrastructure 2025 Certified Generative AI Professional",
+            "image": "/assets/images/oracle_gen_ai.png",
+            "date": "Oct 2025",
+            "link": "https://drive.google.com/file/d/1s7EAjNmiquwpsxHRiKVzXILNlj-MJctZ/view"
+        },
+        {
+            "provider": "Oracle",
+            "title": "Oracle Cloud Infrastructure 2025 Certified Data Science Professional",
+            "image": "/assets/images/oracle_data_science.png",
+            "date": "Sep 2025",
+            "link": "https://drive.google.com/file/d/17E9zowUmoWaTM2-ZxsrP18XlaLEzZUn4/view"
+        },
+        {
+            "provider": "Coursera",
+            "title": "Master SQL for Data Analysis",
+            "image": "/assets/images/master_sql.png",
+            "date": "Mar 2026",
+            "link": "https://coursera.org/verify/TWBGXE9PS1JA"
+        },
+        {
+            "provider": "NPTEL",
+            "title": "Cloud Computing",
+            "image": "/assets/images/nptel_cloud.png",
+            "date": "Apr 2025",
+            "link": "https://drive.google.com/file/d/193IYZ-A-AgVrhIug-3O0J9ncSE3GIHj3/view"
+        }
+    ],
+    "training": [
+        {
+            "provider": "Lovely Professional University (Centre for Professional Enhancement)",
+            "title": "Data Structures and Algorithms using C++",
+            "description": "• Completed two-month intensive training in mastering core and advanced Data Structures and Algorithms using C++.\n• Solved 100+ complex challenges applying advanced DSA and C++ to enhance problem-solving proficiency.\n• Engineered multiple C++ projects applying algorithms and techniques to various real-world scenarios.",
+            "tech": [
+                "Data Structures and Algorithms",
+                "C++",
+                "File Handling",
+                "C"
+            ],
+            "image": "/assets/images/lpu_training.png"
+        }
+    ],
+    "soft_skills": []
+}
