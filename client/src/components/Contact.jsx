@@ -55,7 +55,7 @@ const Contact = () => {
 
             // Backup save to local messages.json
             try {
-                await fetch('/api/contact', {
+                await fetch('https://portfolio-z5qp.onrender.com/api/contact', {
                     method: 'POST',
                     headers: { 'Content-Type': 'application/json' },
                     body: JSON.stringify(formData),

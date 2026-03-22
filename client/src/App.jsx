@@ -17,7 +17,7 @@ const Achievements = lazy(() => import('./components/Achievements'));
 const Contact = lazy(() => import('./components/Contact'));
 const Footer = lazy(() => import('./components/Footer'));
 
-const API_BASE = '/api';
+const API_BASE = 'https://portfolio-z5qp.onrender.com/api';
 
 // Loading Component for Suspense
 const SectionLoader = () => (
